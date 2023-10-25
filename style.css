@@ -71,7 +71,7 @@ html,body{
     width:60px;
     height:60px;
     border-radius: 50%;
-    background-color: #fed766;
+    background-color: #FAE392;
     justify-content: center;
     align-items: center;
     color:black;
@@ -79,5 +79,5 @@ html,body{
 
 .bubble:hover{
     cursor:pointer;
-    background-color: rgb(4, 83, 4);
+    background-color: #FBD85D;
 }
